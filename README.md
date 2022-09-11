@@ -1,2 +1,2 @@
-# movie_website
-RateView is a movie website which shows the IMDB ratings of various movies.
+# Rate-view
+This website provide you with the rating of the movies based on genre.
